@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : 朱雨欣
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : 我是一名江西理工大学信息安全专业的学生
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
